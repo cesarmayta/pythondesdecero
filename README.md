@@ -1,2 +1,87 @@
 # pythondesdecero
 Códigos del curso Python desde cero
+<h2>TEMARIO</h2>
+<ul>
+  <li>INTRODUCCIÓN A LA PROGRAMACIÓN CON PYTHON
+    <ul>
+      <li>QUE ES PYTHON</li>
+      <li>INSTALACIÓN DE PYTHON 3</li>
+      <li>HERRAMIENTAS PARA PROGRAMAR</li>
+      <li>HOLA MUNDO</li>
+      <li>CONTROLADOR DE VERSIONES DE TU CODIGO</li>
+    </ul>
+   </li>
+  <li>SINTAXIS DE PYTHON
+    <ul>
+      <li>VARIABLES Y OPERADORES</li>
+      <li>CONDICIONALES</li>
+      <li>BUCLES</li>
+      <li>FUNCIONES ESPECIALES</li>
+      <li>EJERCICIO PRACTICO</li>
+    </ul>
+   </li>
+</ul>
+3 - COLECCIONES CON PYTHON
+<ul>
+  <li>LISTAS</li>
+  <li>TUPLAS</li>
+  <li>DICCIONARIOS</li>
+  <li>COJUNTOS</li>
+  <li>EJERCICIO PRACTICO</li>
+<ul>
+4 - MODULARIZANDO TU CODIGO
+<ul>
+  <li>FUNCIONES DEFINIDAS POR USUARIO</li>
+  <li>MODULOS Y PAQUETES</li>
+  <li>MANEJO DE ARCHIVOS</li>
+  <li>ESTRUCTURA DE PROYECTO REAL</li>
+  <li>EJERCICIO PRACTICO</li>
+<ul>
+5 - POO CON PYTHON
+<ul>
+  <li>INTRODUCCION A POO</li>
+  <li>CLASES Y METODOS</li>
+  <li>HERENCIA Y POLIMORFISMO</li>
+  <li>MANEJO DE EXCEPCIONES</li>
+  <li>EJERCICIO PRACTICO</li>
+<ul>
+6 - BASE DE DATOS CON PYTHON
+<ul>
+  <li>INTRODUCCIÓN A BASE DE DATOS SQL</li>
+  <li>SQLLITE</li>
+  <li>SELECCIÓN E INSERCIÓN DE DATOS CON PYTHON</li>
+  <li>ACTUALIZACIÓN Y ELIMINACIÓN DE DATOS</li>
+  <li>EJERCICIO PRACTICO</li>
+<ul>
+7 - APLICACIONES DE ESCRITORIO CON PYTHON
+<ul>
+  <li>INTRODUCCIÓN A TKINTER</li>
+  <li>MANEJO DE LA GRILLA</li>
+  <li>FRAMES,LABELS,ENTRYS Y BUTTONS</li>
+  <li>TREVIEW</li>
+  <li>EJERCICIO PRACTICO</li>
+<ul>
+8 - APLICACIONES DE ESCRITORIO CON PYTHON
+<ul>
+  <li>INTRODUCCIÓN A TKINTER</li>
+  <li>MANEJO DE LA GRILLA</li>
+  <li>FRAMES,LABELS,ENTRYS Y BUTTONS</li>
+  <li>TREVIEW</li>
+  <li>EJERCICIO PRACTICO</li>
+<ul>
+9 - APLICACIONES WEB CON PYTHON
+<ul>
+  <li>INTRODUCCIÓN A FLASK</li>
+  <li>MANEJO DE RUTAS</li>
+  <li>TEMPLATES</li>
+  <li>EXTENSIONES</li>
+  <li>EJERCICIO PRACTICO</li>
+<ul>
+10 - API REST CON PYTHON
+<ul>
+  <li>QUE ES UN API REST</li>
+  <li>POST Y GET</li>
+  <li>PUT Y DELETE</li>
+  <li>USO DE LIBRERIAS</li>
+  <li>PRUEBA DE NUESTRO API</li>
+<ul>
